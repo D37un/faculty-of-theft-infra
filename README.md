@@ -49,8 +49,7 @@ Full topology diagram and per-interface IP assignments are available in [`docs/I
 ```
 faculty-of-theft-infra/
 ├── docs/                    # Full project report and reference diagrams
-├── topology/                # GNS3 project file
-├── configs/
+├── config/
 │   ├── opnsense/            # Firewall configuration exports
 │   └── switches/            # Switch configuration exports
 └── testing/
