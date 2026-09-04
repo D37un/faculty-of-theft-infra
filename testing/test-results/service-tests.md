@@ -2,7 +2,7 @@
 
 Test results for infrastructure services deployed on the Faculty of Theft network — corresponds to **Chapter 5.2** of the full report.
 
-Screenshots referenced below are stored in [`../../docss/images/services/`](../../docss/images/services/).
+Screenshots referenced below are stored in [`../../docs/images/services/`](../../docs/images/services/).
 
 ---
 
@@ -18,7 +18,7 @@ Screenshots referenced below are stored in [`../../docss/images/services/`](../.
 
 > Note: site was served over plain HTTP (browser shows "Not Secure") — no TLS certificate configured, which is expected for an internal lab service.
 
-Evidence: [web-service-test.png](../../docss/images/services/web-service-test.png)
+Evidence: [web-service-test.png](../../docs/images/services/web-service-test.png)
 
 ---
 
