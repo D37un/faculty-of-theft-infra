@@ -2,7 +2,7 @@
 
 Test results for infrastructure services deployed on the Faculty of Theft network — corresponds to **Chapter 5.2** of the full report.
 
-Screenshots referenced below are stored in [`images/services/`](images/services/).
+Screenshots referenced below are stored in [`../../doc/images/services/`](../../doc/images/services/).
 
 ---
 
@@ -18,7 +18,7 @@ Screenshots referenced below are stored in [`images/services/`](images/services/
 
 > Note: site was served over plain HTTP (browser shows "Not Secure") — no TLS certificate configured, which is expected for an internal lab service.
 
-Evidence: [web-service-test.png](images/services/web-service-test.png)
+Evidence: [web-service-test.png](../../doc/images/services/web-service-test.png)
 
 ---
 
@@ -57,7 +57,7 @@ sent ACK <block=2>
 
 Captured the transfer's I/O graph in Wireshark to confirm sustained throughput during the download (peaks around 60–80 Mb/s at 1-second intervals).
 
-Evidence: [tftp-transfer.png](images/services/tftp-transfer.png), [tftp-wireshark-io-graph.png](images/services/tftp-wireshark-io-graph.png)
+Evidence: [tftp-transfer.png](../../doc/images/services/tftp-transfer.png), [tftp-wireshark-io-graph.png](../../doc/images/services/tftp-wireshark-io-graph.png)
 
 ---
 
@@ -108,7 +108,7 @@ All three VLANs successfully resolved and reached the internal domain name, conf
 
 All monitored hosts (Web Server, File Server, Zabbix Server itself) reported live metrics on their respective dashboards, confirming the monitoring pipeline (SNMP polling → Zabbix Server → Dashboards) is working end-to-end.
 
-Evidence: [zabbix-network-interface.png](images/services/zabbix-network-interface.png), [zabbix-system-performance.png](images/services/zabbix-system-performance.png)
+Evidence: [zabbix-network-interface.png](../../doc/images/services/zabbix-network-interface.png), [zabbix-system-performance.png](../../doc/images/services/zabbix-system-performance.png)
 
 ---
 
@@ -130,7 +130,7 @@ Evidence: [zabbix-network-interface.png](images/services/zabbix-network-interfac
 | Vlan20gateway | 192.168.20.46 | 0c:86:2b:80:00:00 | — |
 | Vlan30gateway | 192.168.30.25 | 0c:9d:28:c6:00:00 | ubuntu-VMware-Virtual-Platform |
 
-Evidence: [opnsense-dashboard.png](images/services/opnsense-dashboard.png), [opnsense-traffic-reporting.png](images/services/opnsense-traffic-reporting.png), [opnsense-dhcp-leases.png](images/services/opnsense-dhcp-leases.png)
+Evidence: [opnsense-dashboard.png](../../doc/images/services/opnsense-dashboard.png), [opnsense-traffic-reporting.png](../../doc/images/services/opnsense-traffic-reporting.png), [opnsense-dhcp-leases.png](../../doc/images/services/opnsense-dhcp-leases.png)
 
 ---
 
