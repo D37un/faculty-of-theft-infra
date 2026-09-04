@@ -2,7 +2,7 @@
 
 Test results for network-level connectivity across the Faculty of Theft infrastructure — corresponds to **Chapter 5.1** of the full report. All tests were run from client machines using `ping`, with source interfaces confirmed via `ip a` beforehand.
 
-Screenshots referenced below are stored in [`../doc/images/connectivity/`](../doc/images/connectivity/).
+Screenshots referenced below are stored in [`../../doc/images/services/`](../../doc/images/services/).
 
 ---
 
