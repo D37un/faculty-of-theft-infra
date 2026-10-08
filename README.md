@@ -71,23 +71,23 @@ Chapter 6 of the report also covers real-world usage simulation and troubleshoot
 
 ## 👥 Contributors
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Student ID</th>
-      <th>Name</th>
-      <th>Responsibilities</th>
+      <th width="15%">Student ID</th>
+      <th width="30%">Name</th>
+      <th width="55%">Responsibilities</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>67070183</td>
-      <td><nobr>สาริน สุขสอน</nobr></td>
+      <td>สาริน สุขสอน</td>
       <td>Provisioned virtual resources; installed &amp; configured services; service testing</td>
     </tr>
     <tr>
       <td>67070193</td>
-      <td><nobr>อติกันต์ ชินวรรณโณ</nobr></td>
+      <td>อติกันต์ ชินวรรณโณ</td>
       <td>Designed system &amp; topology; provisioned virtual resources; overall system testing; installed &amp; tested monitoring system</td>
     </tr>
   </tbody>
