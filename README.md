@@ -71,10 +71,27 @@ Chapter 6 of the report also covers real-world usage simulation and troubleshoot
 
 ## 👥 Contributors
 
-| Student ID | Name | Responsibilities |
-|---|---|---|
-| 67070183 | สาริน สุขสอน | Provisioned virtual resources; installed & configured services; service testing |
-| 67070193 | อติกันต์ ชินวรรณโณ | Designed system & topology; provisioned virtual resources; overall system testing; installed & tested monitoring system |
+<table>
+  <thead>
+    <tr>
+      <th>Student ID</th>
+      <th>Name</th>
+      <th>Responsibilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>67070183</td>
+      <td><nobr>สาริน สุขสอน</nobr></td>
+      <td>Provisioned virtual resources; installed &amp; configured services; service testing</td>
+    </tr>
+    <tr>
+      <td>67070193</td>
+      <td><nobr>อติกันต์ ชินวรรณโณ</nobr></td>
+      <td>Designed system &amp; topology; provisioned virtual resources; overall system testing; installed &amp; tested monitoring system</td>
+    </tr>
+  </tbody>
+</table>
 
 **Advisor:** ผศ. อัครินทร์ คุณกิตติ
 
